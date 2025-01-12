@@ -54,7 +54,7 @@
 		"storybook:ios": "sb-rn-get-stories && cross-env STORYBOOK_ENABLED='true' expo start --ios",
 		"storybook:android": "sb-rn-get-stories && cross-env STORYBOOK_ENABLED='true' expo start --android"
 	},
-	"version": "0.0.2",
+	"version": "1.0.0",
 	"private": true,
 	"name": "ec-test-react-native",
 	"main": "start-app.js"
