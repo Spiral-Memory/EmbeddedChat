@@ -3,7 +3,7 @@ import {
   UiKitComponent,
   UiKitContext,
   UiKitMessage,
-} from '@embeddedchat/ui-kit';
+} from 'ec-test-ui-kit';
 import { useMessageBlockContextValue } from '../../../hooks/uiKit/useMessageBlockContextValue';
 
 const UiKitMessageBlock = ({ rid, mid, blocks }) => {

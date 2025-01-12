@@ -6,7 +6,7 @@ import {
   Sidebar,
   Popup,
   useComponentOverrides,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import RCContext from '../../context/RCInstance';
 import { useChannelStore } from '../../store';
 import useSetExclusiveState from '../../hooks/useSetExclusiveState';

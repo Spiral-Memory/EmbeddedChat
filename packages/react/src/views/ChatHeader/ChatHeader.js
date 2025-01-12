@@ -8,7 +8,7 @@ import {
   useToastBarDispatch,
   useComponentOverrides,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { useRCContext } from '../../context/RCInstance';
 import {
   useUserStore,

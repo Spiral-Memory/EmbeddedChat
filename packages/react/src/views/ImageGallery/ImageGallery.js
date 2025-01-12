@@ -7,7 +7,7 @@ import {
   Throbber,
   useTheme,
   ReactPortal,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { useRCContext } from '../../context/RCInstance';
 import { Swiper, SwiperSlide } from './Swiper';
 import getImageGalleryStyles from './ImageGallery.styles';

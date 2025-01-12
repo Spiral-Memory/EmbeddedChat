@@ -8,14 +8,14 @@ import {
   UiKitContextualBar as UiKitContextualBarSurfaceRender,
   contextualBarParser,
   UiKitContext,
-} from '@embeddedchat/ui-kit';
+} from 'ec-test-ui-kit';
 import {
   Button,
   MinimalSidebar,
   SidebarContent,
   SidebarFooter,
   SidebarHeader,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 
 import useContextualBarContextValue from '../../../hooks/uiKit/useContextualBarContextValue';
 import useUiKitActionManager from '../../../hooks/uiKit/useUiKitActionManager';

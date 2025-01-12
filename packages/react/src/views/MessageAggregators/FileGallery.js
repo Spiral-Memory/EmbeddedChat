@@ -1,5 +1,5 @@
 import React, { useState, useMemo, useEffect } from 'react';
-import { useComponentOverrides } from '@embeddedchat/ui-elements';
+import { useComponentOverrides } from 'ec-test-ui-elements';
 import { useChannelStore } from '../../store';
 import { useRCContext } from '../../context/RCInstance';
 import { MessageAggregator } from './common/MessageAggregator';

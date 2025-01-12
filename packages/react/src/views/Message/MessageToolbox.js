@@ -8,7 +8,7 @@ import {
   useComponentOverrides,
   appendClassNames,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { EmojiPicker } from '../EmojiPicker';
 import { parseEmoji } from '../../lib/emoji';
 import { getMessageToolboxStyles } from './Message.styles';

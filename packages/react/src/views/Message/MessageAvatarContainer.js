@@ -5,7 +5,7 @@ import {
   Icon,
   Tooltip,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import RCContext from '../../context/RCInstance';
 import { getMessageAvatarContainerStyles } from './Message.styles';
 import useSetExclusiveState from '../../hooks/useSetExclusiveState';

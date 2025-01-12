@@ -1,7 +1,7 @@
 /* eslint-disable no-shadow */
 import { useEffect, useMemo, useReducer, useState } from 'react';
 import { useSafely } from '@rocket.chat/fuselage-hooks';
-import { extractInitialStateFromLayout } from '@embeddedchat/ui-kit';
+import { extractInitialStateFromLayout } from 'ec-test-ui-kit';
 import useUiKitActionManager from './useUiKitActionManager';
 
 const reduceValues = (values, { actionId, payload }) => ({

@@ -1,4 +1,4 @@
-import { useTheme } from '@embeddedchat/ui-elements';
+import { useTheme } from 'ec-test-ui-elements';
 import { getBubbleStyles, getBubbleStylesMe } from './Bubble.styles';
 
 const useBubbleStyles = (isMe = false) => {

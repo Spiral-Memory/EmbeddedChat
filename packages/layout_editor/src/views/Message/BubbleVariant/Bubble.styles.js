@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import { alpha } from '@embeddedchat/ui-elements';
+import { alpha } from 'ec-test-ui-elements';
 
 export const bubbleStyles = ({ theme }) => {
   const styles = {

@@ -4,7 +4,7 @@ import {
   Icon,
   useComponentOverrides,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import useChannelStateStyles from './ChannelState.styles';
 
 const ChannelState = ({

@@ -19,7 +19,7 @@ export const RCInstanceProvider = RCContext.Provider;
  * @property {boolean} anonymousMode
  *
  * @typedef {Object} RCContext
- * @property {import('@embeddedchat/api').EmbeddedChatApi} RCInstance
+ * @property {import('ec-test-api').EmbeddedChatApi} RCInstance
  * @property {ECOptions} ECOptions
  * @returns {RCContext}
  */

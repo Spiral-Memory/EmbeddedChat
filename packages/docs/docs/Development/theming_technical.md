@@ -11,7 +11,7 @@ This guide dives into the technical aspects of how themes, styles, and configura
 
 We use [Emotion](https://emotion.sh/) for styling. Each component has a `component.style.js` file for CSS definitions.
 
-We use theming with our `useTheme` hook, exported from `@embeddedchat/ui-elements`, according to our specific requirements. The implementation looks something like this:
+We use theming with our `useTheme` hook, exported from `ec-test-ui-elements`, according to our specific requirements. The implementation looks something like this:
 
 ```jsx
 import { useContext } from "react";

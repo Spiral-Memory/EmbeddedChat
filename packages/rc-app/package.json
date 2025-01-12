@@ -1,5 +1,5 @@
 {
-    "name": "@embeddedchat/rc-app",
+    "name": "ec-test-rc-app",
     "version": "0.0.1",
     "private": true,
     "devDependencies": {

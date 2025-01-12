@@ -5,7 +5,7 @@ import React, {
   useCallback,
   useMemo,
 } from 'react';
-import { Box, useTheme } from '@embeddedchat/ui-elements';
+import { Box, useTheme } from 'ec-test-ui-elements';
 import { ChromePicker } from 'react-color';
 import { getColorMangerStyles } from './ThemeLab.styles';
 import debounce from 'lodash/debounce';

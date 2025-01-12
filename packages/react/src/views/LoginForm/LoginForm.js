@@ -7,7 +7,7 @@ import {
   Input,
   Icon,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { useLoginStore } from '../../store';
 import { useRCAuth } from '../../hooks/useRCAuth';
 import styles from './LoginForm.styles';

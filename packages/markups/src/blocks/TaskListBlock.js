@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { css } from '@emotion/react';
-import { CheckBox } from '@embeddedchat/ui-elements';
+import { CheckBox } from 'ec-test-ui-elements';
 import InlineElements from '../elements/InlineElements';
 import { TaskListBlockStyles as styles } from './blocks.styles';
 

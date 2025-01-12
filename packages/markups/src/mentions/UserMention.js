@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import PropTypes from 'prop-types';
-import { Box } from '@embeddedchat/ui-elements';
+import { Box } from 'ec-test-ui-elements';
 import { MarkupInteractionContext } from '../MarkupInteractionContext';
 import useMentionStyles from '../elements/elements.styles';
 

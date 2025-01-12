@@ -38,7 +38,7 @@ export default [
       'react',
       'react-dom',
       '@emotion/react',
-      '@embeddedchat/ui-elements',
+      'ec-test-ui-elements',
     ],
     plugins: [
       replace(

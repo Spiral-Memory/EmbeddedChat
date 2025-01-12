@@ -4,7 +4,7 @@ import {
   Box,
   Skeleton,
   useComponentOverrides,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { ImageBlockStyles as styles } from './blocks.styles';
 
 const maxSize = 360;

@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { css } from '@emotion/react';
-import { Box, Icon, Button, Input, Modal } from '@embeddedchat/ui-elements';
+import { Box, Icon, Button, Input, Modal } from 'ec-test-ui-elements';
 import useAttachmentWindowStore from '../../store/attachmentwindow';
 import CheckPreviewType from './CheckPreviewType';
 import RCContext from '../../context/RCInstance';

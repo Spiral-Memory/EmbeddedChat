@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import { useToastBarDispatch } from '@embeddedchat/ui-elements';
+import { useToastBarDispatch } from 'ec-test-ui-elements';
 import RCContext from '../context/RCInstance';
 import { useUserStore, totpModalStore, useLoginStore } from '../store';
 

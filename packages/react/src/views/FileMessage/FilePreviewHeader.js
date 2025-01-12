@@ -6,7 +6,7 @@ import {
   Icon,
   useComponentOverrides,
   appendClassNames,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { useUserStore } from '../../store';
 import { filePreviewHeaderStyles as styles } from './Files.styles';
 

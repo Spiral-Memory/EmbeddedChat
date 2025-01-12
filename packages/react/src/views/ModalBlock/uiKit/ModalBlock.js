@@ -1,8 +1,8 @@
 /* eslint-disable react/prop-types */
 import { useUniqueId } from '@rocket.chat/fuselage-hooks';
 import React, { useContext, useEffect, useMemo, useRef } from 'react';
-import { Box, Button, Modal } from '@embeddedchat/ui-elements';
-import { UiKitComponent, UiKitModal, modalParser } from '@embeddedchat/ui-kit';
+import { Box, Button, Modal } from 'ec-test-ui-elements';
+import { UiKitComponent, UiKitModal, modalParser } from 'ec-test-ui-kit';
 import RCContext from '../../../context/RCInstance';
 
 const focusableElementsString = `

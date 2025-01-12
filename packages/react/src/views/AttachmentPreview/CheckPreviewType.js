@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
-import { useToastBarDispatch } from '@embeddedchat/ui-elements';
+import { useToastBarDispatch } from 'ec-test-ui-elements';
 import PreviewImage from './PreviewType/image';
 import PreviewAudio from './PreviewType/audio';
 import PreviewDefault from './PreviewType/default';

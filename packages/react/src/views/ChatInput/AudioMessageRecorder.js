@@ -5,7 +5,7 @@ import React, {
   useContext,
   useRef,
 } from 'react';
-import { Box, Icon, ActionButton, useTheme } from '@embeddedchat/ui-elements';
+import { Box, Icon, ActionButton, useTheme } from 'ec-test-ui-elements';
 import { useMediaRecorder } from '../../hooks/useMediaRecorder';
 import RCContext from '../../context/RCInstance';
 import useMessageStore from '../../store/messageStore';

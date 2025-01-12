@@ -1,5 +1,5 @@
 import React from 'react';
-import { useComponentOverrides } from '@embeddedchat/ui-elements';
+import { useComponentOverrides } from 'ec-test-ui-elements';
 import { useUserStore } from '../../store';
 import { MessageAggregator } from './common/MessageAggregator';
 

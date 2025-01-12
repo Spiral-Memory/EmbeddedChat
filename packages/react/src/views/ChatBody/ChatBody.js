@@ -6,7 +6,7 @@ import {
   Box,
   Throbber,
   useComponentOverrides,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import RCContext from '../../context/RCInstance';
 import {
   useMessageStore,

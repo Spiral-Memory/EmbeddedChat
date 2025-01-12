@@ -7,7 +7,7 @@ import {
   ActionButton,
   Heading,
   useToastBarDispatch,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import useInviteStore from '../../store/inviteStore';
 import { InviteMemberStyles as styles } from './RoomMembers.styles';
 import RCContext from '../../context/RCInstance';

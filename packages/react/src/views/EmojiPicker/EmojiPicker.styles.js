@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import { alpha, lighten, darken } from '@embeddedchat/ui-elements';
+import { alpha, lighten, darken } from 'ec-test-ui-elements';
 
 const getEmojiPickerStyles = ({ theme, mode }) => {
   const calculatedColors =

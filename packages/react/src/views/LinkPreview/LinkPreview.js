@@ -7,7 +7,7 @@ import {
   Icon,
   useComponentOverrides,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import getLinkPreviewStyles from './LinkPreview.styles';
 
 const LinkPreview = ({

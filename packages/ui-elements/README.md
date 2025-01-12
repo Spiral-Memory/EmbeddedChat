@@ -32,7 +32,7 @@ To develop and view the components:
 To install the component library, run:
 
 ```bash
-yarn add @embeddedchat/ui-elements
+yarn add ec-test-ui-elements
 ```
 
 This library offers a range of UI components, including `Box`, `Input`, `StaticSelect`, `MultiSelect`, and more. For a complete list of available components, please refer to the Storybook.
@@ -47,14 +47,14 @@ import {
   Menu,
   useToastBarDispatch,
   useComponentOverrides,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 
 ### Theming
 
-By default, the component uses a standard theme. You can apply a custom theme and mode by importing `ThemeProvider` from `@embeddedchat/ui-elements` and using it as follows:
+By default, the component uses a standard theme. You can apply a custom theme and mode by importing `ThemeProvider` from `ec-test-ui-elements` and using it as follows:
 
 ```jsx
-import { ThemeProvider } from "@embeddedchat/ui-elements";
+import { ThemeProvider } from "ec-test-ui-elements";
 
 <ThemeProvider theme={customTheme} mode="light">
   <YourMainComponent />
@@ -66,7 +66,7 @@ Supported modes are `'light'` and `'dark'`. Ensure that the `theme` prop is prov
 The library also includes a `useTheme` hook for managing the theme and mode:
 
 ```jsx
-import { useTheme } from "@embeddedchat/ui-elements";
+import { useTheme } from "ec-test-ui-elements";
 
 const { theme, mode, setTheme, setMode } = useTheme();
 ```
@@ -85,7 +85,7 @@ You can use this hook to style your components with the provided theme. `useThem
 Additionally, the library offers `darken` and `lighten` functions to dynamically adjust color brightness:
 
 ```jsx
-import { darken, lighten } from "@embeddedchat/ui-elements";
+import { darken, lighten } from "ec-test-ui-elements";
 ```
 
 These functions can be used as follows:

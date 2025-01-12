@@ -1,8 +1,8 @@
 import React, { useMemo } from 'react';
 import PropTypes from 'prop-types';
 import { css } from '@emotion/react';
-import { Box } from '@embeddedchat/ui-elements';
-import { Markup, MarkupInteractionContext } from '@embeddedchat/markups';
+import { Box } from 'ec-test-ui-elements';
+import { Markup, MarkupInteractionContext } from 'ec-test-markups';
 import EmojiReaction from '../EmojiReaction/EmojiReaction';
 import { useMemberStore, useUserStore } from '../../store';
 

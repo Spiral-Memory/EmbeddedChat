@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { EmbeddedChat as EmbeddedChatComponent } from "@embeddedchat/react";
+import { EmbeddedChat as EmbeddedChatComponent } from "ec-test-react";
 
 const EmbeddedChat = {
   renderInElementWithId(config, id) {

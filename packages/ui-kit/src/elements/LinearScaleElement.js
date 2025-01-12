@@ -1,7 +1,7 @@
 import * as UiKit from '@rocket.chat/ui-kit';
 import React, { memo, useMemo } from 'react';
 import { css } from '@emotion/react';
-import { Box, Button } from '@embeddedchat/ui-elements';
+import { Box, Button } from 'ec-test-ui-elements';
 import { LinearScaleElementStyles as styles } from './elements.styles';
 
 import { useUiKitState } from '../hooks/useUiKitState';

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, StaticSelect, useTheme } from '@embeddedchat/ui-elements';
+import { Box, StaticSelect, useTheme } from 'ec-test-ui-elements';
 import { getPaletteSettings } from './ThemeLab.styles';
 import ColorManager from './ColorManager';
 import FontManager from './FontManager';

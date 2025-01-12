@@ -1,5 +1,5 @@
 import React, { useMemo, memo } from 'react';
-import { Menu } from '@embeddedchat/ui-elements';
+import { Menu } from 'ec-test-ui-elements';
 import { useUiKitState } from '../hooks/useUiKitState';
 import { fromTextObjectToString } from '../utils/fromTextObjectToString';
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import { css, Global } from '@emotion/react';
-import { useTheme, alpha } from '@embeddedchat/ui-elements';
+import { useTheme, alpha } from 'ec-test-ui-elements';
 
 const getGlobalStyles = (theme) => css`
   .ec-embedded-chat * {

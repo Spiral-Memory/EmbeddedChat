@@ -1,6 +1,6 @@
 import React, { memo, useMemo, useCallback } from 'react';
 
-import { MultiSelect } from '@embeddedchat/ui-elements';
+import { MultiSelect } from 'ec-test-ui-elements';
 import { useUiKitState } from '../hooks/useUiKitState';
 import { fromTextObjectToString } from '../utils/fromTextObjectToString';
 

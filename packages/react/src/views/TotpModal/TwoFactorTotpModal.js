@@ -7,7 +7,7 @@ import {
   Modal,
   Input,
   Button,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { totpModalStore, useUserStore } from '../../store';
 
 export default function TotpModal({ handleLogin }) {

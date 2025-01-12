@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Box, Icon, Sidebar, Popup, Button } from '@embeddedchat/ui-elements';
+import { Box, Icon, Sidebar, Popup, Button } from 'ec-test-ui-elements';
 import { css } from '@emotion/react';
 import { getDemoSidebarStyles } from './DemoSidebar.styles';
 import useLayoutStore from '../../store/layoutStore';

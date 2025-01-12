@@ -1,6 +1,6 @@
 import React from 'react';
 import * as UiKit from '@rocket.chat/ui-kit';
-import { Box } from '@embeddedchat/ui-elements';
+import { Box } from 'ec-test-ui-elements';
 import { ImageElementStyles as styles } from './elements.styles';
 
 const ImageElement = ({ block, context }) => {

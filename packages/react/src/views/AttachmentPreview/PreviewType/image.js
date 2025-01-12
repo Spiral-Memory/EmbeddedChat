@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Box, useTheme } from '@embeddedchat/ui-elements';
+import { Box, useTheme } from 'ec-test-ui-elements';
 
 function PreviewImage({ previewURL }) {
   const { theme } = useTheme();

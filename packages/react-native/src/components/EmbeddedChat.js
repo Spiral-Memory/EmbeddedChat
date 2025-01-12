@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
-import { EmbeddedChatApi } from '@embeddedchat/api';
+import { EmbeddedChatApi } from 'ec-test-api';
 import { RCInstanceProvider } from '../contexts/RCInstance';
 import { deleteToken, getToken, saveToken} from '../lib/auth';
 import { ThemeProvider } from '@emotion/react';

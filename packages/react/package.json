@@ -1,5 +1,5 @@
 {
-  "name": "@embeddedchat/react",
+  "name": "ec-test-react",
   "version": "0.1.12",
   "description": "React component library for embedding Rocket.Chat in React applications, providing customizable and feature-rich chat interfaces with easy React integration.",
   "main": "dist/cjs/index.js",
@@ -83,9 +83,6 @@
     "react-dom": ">=17.0.2 <19.0.0"
   },
   "dependencies": {
-    "@embeddedchat/api": "workspace:^",
-    "@embeddedchat/ui-elements": "workspace:^",
-    "@embeddedchat/ui-kit": "workspace:^",
     "@emotion/babel-preset-css-prop": "^11.11.0",
     "@emotion/react": "11.7.1",
     "@rocket.chat/emitter": "^0.31.25",
@@ -93,6 +90,9 @@
     "@rocket.chat/ui-kit": "^0.31.25",
     "@rollup/plugin-json": "^6.0.0",
     "date-fns": "^2.30.0",
+    "ec-test-api": "workspace:^",
+    "ec-test-ui-elements": "workspace:^",
+    "ec-test-ui-kit": "workspace:^",
     "emoji-picker-react": "^4.4.9",
     "emoji-toolkit": "^7.0.1",
     "json5": "^2.2.3",

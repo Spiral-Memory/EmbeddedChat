@@ -8,7 +8,7 @@ import {
   useComponentOverrides,
   useTheme,
   appendClassNames,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { useMemberStore, useUserStore } from '../../store';
 import { getMessageHeaderStyles } from './Message.styles';
 import useDisplayNameColor from '../../hooks/useDisplayNameColor';

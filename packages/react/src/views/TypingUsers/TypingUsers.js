@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import { useTheme, Box } from '@embeddedchat/ui-elements';
+import { useTheme, Box } from 'ec-test-ui-elements';
 import React, { useContext, useEffect, useMemo, useState } from 'react';
 import RCContext from '../../context/RCInstance';
 import { useUserStore } from '../../store';

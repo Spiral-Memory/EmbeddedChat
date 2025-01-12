@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Throbber } from '@embeddedchat/ui-elements';
+import { Box, Throbber } from 'ec-test-ui-elements';
 import useMessageAggregatorStyles from './MessageAggregator.styles';
 
 const LoadingIndicator = () => {

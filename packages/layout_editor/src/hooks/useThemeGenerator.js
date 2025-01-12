@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useTheme } from '@embeddedchat/ui-elements';
+import { useTheme } from 'ec-test-ui-elements';
 import useLayoutStore from '../store/layoutStore';
 import useHeaderItemsStore from '../store/headerItemsStore';
 import useMessageItemsStore from '../store/messageItemsStore';

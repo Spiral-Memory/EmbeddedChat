@@ -6,7 +6,7 @@ import {
   Icon,
   Modal,
   useToastBarDispatch,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { useMessageStore } from '../../store';
 import RCContext from '../../context/RCInstance';
 

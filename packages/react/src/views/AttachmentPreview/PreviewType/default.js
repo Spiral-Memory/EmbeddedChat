@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { css } from '@emotion/react';
-import { Box, Icon } from '@embeddedchat/ui-elements';
+import { Box, Icon } from 'ec-test-ui-elements';
 
 function PreviewDefault({ data }) {
   return (

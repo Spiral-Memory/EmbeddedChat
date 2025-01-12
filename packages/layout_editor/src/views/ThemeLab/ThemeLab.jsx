@@ -9,7 +9,7 @@ import {
   SidebarHeader,
   useToastBarDispatch,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import useThemeGenerator from '../../hooks/useThemeGenerator';
 import { getThemeLabStyles } from './ThemeLab.styles';
 import LayoutSetting from './LayoutSetting';

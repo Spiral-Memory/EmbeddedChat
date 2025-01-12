@@ -3,7 +3,7 @@ import {
   Box,
   useComponentOverrides,
   appendClassNames,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { MessageBodyStyles as styles } from './Message.styles';
 
 export const MessageBody = ({

@@ -1,4 +1,4 @@
-# @embeddedchat/react
+# ec-test-react
 
 ## 0.1.12
 
@@ -34,13 +34,13 @@
   Fixed: Remove unused menu options
   Fixed: Fixed fullscreen action button
 - Updated dependencies
-  - @embeddedchat/api@0.0.2
+  - ec-test-api@0.0.2
 
 ## 0.1.5
 
 ### Patch Changes
 
-- support @embeddedchat/react for Server Side Rendering
+- support ec-test-react for Server Side Rendering
 
 ## 0.1.0
 

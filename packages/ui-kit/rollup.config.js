@@ -38,8 +38,8 @@ export default [
       'react',
       'react-dom',
       '@emotion/react',
-      '@embeddedchat/ui-elements',
-      '@embeddedchat/markups',
+      'ec-test-ui-elements',
+      'ec-test-markups',
     ],
     plugins: [
       replace(

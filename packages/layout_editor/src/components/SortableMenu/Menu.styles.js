@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import { lighten, darken } from '@embeddedchat/ui-elements';
+import { lighten, darken } from 'ec-test-ui-elements';
 
 export const getMenuStyles = ({ theme }) => {
   const styles = {

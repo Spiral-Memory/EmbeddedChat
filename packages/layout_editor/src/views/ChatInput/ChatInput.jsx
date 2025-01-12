@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import { css } from "@emotion/react";
-import { Box, Input, ActionButton, useTheme } from "@embeddedchat/ui-elements";
+import { Box, Input, ActionButton, useTheme } from "ec-test-ui-elements";
 import { getChatInputStyles } from "./ChatInput.styles";
 import ChatInputToolbar from "./ChatInputToolbar";
 

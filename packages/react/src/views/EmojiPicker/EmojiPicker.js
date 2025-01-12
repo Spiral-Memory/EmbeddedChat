@@ -2,7 +2,7 @@ import React from 'react';
 import EmojiPicker from 'emoji-picker-react';
 import { css } from '@emotion/react';
 import PropTypes from 'prop-types';
-import { Box, Popup, useTheme } from '@embeddedchat/ui-elements';
+import { Box, Popup, useTheme } from 'ec-test-ui-elements';
 import getEmojiPickerStyles from './EmojiPicker.styles';
 
 const CustomEmojiPicker = ({

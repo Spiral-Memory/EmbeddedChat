@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, useTheme } from '@embeddedchat/ui-elements';
+import { Box, useTheme } from 'ec-test-ui-elements';
 import ChatLayout from './ChatLayout/ChatLayout';
 import ChatHeader from './ChatHeader/ChatHeader';
 import GlobalStyles from './GlobalStyles';

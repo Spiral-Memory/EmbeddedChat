@@ -6,7 +6,7 @@ import {
   Icon,
   useTheme,
   appendClassNames,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { getMessageHeaderStyles } from './Message.styles';
 import useDisplayNameColor from '../../hooks/useDisplayNameColor';
 import useLayoutStore from '../../store/layoutStore';

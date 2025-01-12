@@ -1,5 +1,5 @@
 /* eslint-disable no-bitwise */
-import { useTheme } from '@embeddedchat/ui-elements';
+import { useTheme } from 'ec-test-ui-elements';
 
 const simpleHash = (str) => {
   if (!str) return 0;

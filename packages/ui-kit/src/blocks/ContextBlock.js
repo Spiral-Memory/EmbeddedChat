@@ -1,6 +1,6 @@
 import { css } from '@emotion/react';
 import React, { memo, useMemo } from 'react';
-import { Box, useComponentOverrides } from '@embeddedchat/ui-elements';
+import { Box, useComponentOverrides } from 'ec-test-ui-elements';
 
 import Item from './ContextBlockItem';
 

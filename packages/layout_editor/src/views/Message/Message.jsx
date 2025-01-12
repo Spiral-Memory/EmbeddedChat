@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { format } from 'date-fns';
-import { Box, useTheme } from '@embeddedchat/ui-elements';
+import { Box, useTheme } from 'ec-test-ui-elements';
 import { Markdown } from '../Markdown';
 import MessageHeader from './MessageHeader';
 import { MessageBody } from './MessageBody';

@@ -8,13 +8,13 @@ import React, {
 } from 'react';
 import PropTypes from 'prop-types';
 import { css } from '@emotion/react';
-import { EmbeddedChatApi } from '@embeddedchat/api';
+import { EmbeddedChatApi } from 'ec-test-api';
 import {
   Box,
   ToastBarProvider,
   useComponentOverrides,
   ThemeProvider,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { ChatLayout } from './ChatLayout';
 import { ChatHeader } from './ChatHeader';
 import { RCInstanceProvider } from '../context/RCInstance';

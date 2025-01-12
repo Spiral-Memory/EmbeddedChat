@@ -4,7 +4,7 @@ import {
   useComponentOverrides,
   appendClassNames,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { Markdown } from '../Markdown';
 import { isSameUser, serializeReactions } from '../../lib/reaction';
 import { getMessageReactionsStyles } from './Message.styles';

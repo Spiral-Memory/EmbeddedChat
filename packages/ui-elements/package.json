@@ -1,5 +1,5 @@
 {
-    "name": "@embeddedchat/ui-elements",
+    "name": "ec-test-ui-elements",
     "version": "0.0.0",
     "description": "Reusable UI components and UI-related hooks for EmbeddedChat.",
     "main": "dist/cjs/index.js",

@@ -1,6 +1,6 @@
 import * as UiKit from '@rocket.chat/ui-kit';
 import React, { memo, useMemo } from 'react';
-import { Box, useTheme } from '@embeddedchat/ui-elements';
+import { Box, useTheme } from 'ec-test-ui-elements';
 
 import { useUiKitState } from '../hooks/useUiKitState';
 

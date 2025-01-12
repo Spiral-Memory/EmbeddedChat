@@ -1,6 +1,5 @@
 {
 	"dependencies": {
-		"@embeddedchat/api": "workspace:^",
 		"@emotion/native": "^11.11.0",
 		"@emotion/react": "11.7.1",
 		"@expo/vector-icons": "^13.0.0",
@@ -9,6 +8,7 @@
 		"@react-native-community/datetimepicker": "6.7.3",
 		"@react-native-community/slider": "4.4.2",
 		"date-fns": "^2.30.0",
+		"ec-test-api": "workspace:^",
 		"expo": "^48.0.9",
 		"expo-constants": "~14.2.1",
 		"expo-font": "~11.1.1",
@@ -56,6 +56,6 @@
 	},
 	"version": "0.0.2",
 	"private": true,
-	"name": "@embeddedchat/react-native",
+	"name": "ec-test-react-native",
 	"main": "start-app.js"
 }

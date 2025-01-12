@@ -1,7 +1,7 @@
 import React from 'react';
 import * as UiKit from '@rocket.chat/ui-kit';
 import { css } from '@emotion/react';
-import { Button, Throbber } from '@embeddedchat/ui-elements';
+import { Button, Throbber } from 'ec-test-ui-elements';
 
 import { useUiKitState } from '../hooks/useUiKitState';
 

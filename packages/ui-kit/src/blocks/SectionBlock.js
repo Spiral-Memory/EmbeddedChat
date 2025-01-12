@@ -1,5 +1,5 @@
 import React, { memo, useMemo } from 'react';
-import { Box, Flex, Grid } from '@embeddedchat/ui-elements';
+import { Box, Flex, Grid } from 'ec-test-ui-elements';
 
 import Fields from './SectionBlock.Fields';
 

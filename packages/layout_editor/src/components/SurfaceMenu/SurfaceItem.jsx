@@ -5,7 +5,7 @@ import {
   Box,
   useTheme,
   Icon,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { useSortable } from '@dnd-kit/sortable';
 import { CSS } from '@dnd-kit/utilities';
 import { getSurfaceItemStyles } from './SurfaceMenu.styles';

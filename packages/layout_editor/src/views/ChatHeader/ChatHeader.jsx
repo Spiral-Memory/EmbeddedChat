@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Heading, Box, Icon, useTheme } from '@embeddedchat/ui-elements';
+import { Heading, Box, Icon, useTheme } from 'ec-test-ui-elements';
 import { getChatHeaderStyles } from './ChatHeader.styles';
 import { Menu } from '../../components/SortableMenu';
 import SurfaceItem from '../../components/SurfaceMenu/SurfaceItem';

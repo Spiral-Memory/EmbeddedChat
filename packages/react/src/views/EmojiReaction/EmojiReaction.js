@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import emojione from 'emoji-toolkit';
 import { css } from '@emotion/react';
-import { Box } from '@embeddedchat/ui-elements';
+import { Box } from 'ec-test-ui-elements';
 import DOMPurify from 'dompurify';
 
 const EmojiReaction = ({ body }) => {

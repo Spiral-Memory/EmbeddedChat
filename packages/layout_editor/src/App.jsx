@@ -1,6 +1,6 @@
 import React from 'react';
 import LayoutEditor from './views/LayoutEditor';
-import { ThemeProvider, ToastBarProvider } from '@embeddedchat/ui-elements';
+import { ThemeProvider, ToastBarProvider } from 'ec-test-ui-elements';
 import DefaultTheme from './theme/DefaultTheme';
 
 const App = () => {

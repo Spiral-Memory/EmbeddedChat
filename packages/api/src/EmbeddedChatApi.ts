@@ -5,7 +5,7 @@ import {
   IRocketChatAuthOptions,
   RocketChatAuth,
   ApiError,
-} from "@embeddedchat/auth";
+} from "ec-test-auth";
 
 // mutliple typing status can come at the same time they should be processed in order.
 let typingHandlerLock = 0;

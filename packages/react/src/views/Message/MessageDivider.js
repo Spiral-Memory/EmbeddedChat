@@ -4,7 +4,7 @@ import {
   useComponentOverrides,
   appendClassNames,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 
 import { getMessageDividerStyles } from './Message.styles';
 

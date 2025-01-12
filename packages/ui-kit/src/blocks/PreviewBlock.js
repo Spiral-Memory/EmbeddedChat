@@ -13,7 +13,7 @@ import {
   MessageGenericPreviewTitle,
   MessageGenericPreviewDescription,
   MessageGenericPreviewFooter,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 
 import ContextBlock from './ContextBlock';
 

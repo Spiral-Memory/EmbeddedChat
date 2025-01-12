@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { isSameDay, format } from 'date-fns';
-import { Box, Sidebar, Popup, useTheme } from '@embeddedchat/ui-elements';
+import { Box, Sidebar, Popup, useTheme } from 'ec-test-ui-elements';
 import { MessageDivider } from '../../Message/MessageDivider';
 import Message from '../../Message/Message';
 import getMessageAggregatorStyles from './MessageAggregator.styles';

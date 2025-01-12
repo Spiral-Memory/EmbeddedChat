@@ -5,7 +5,7 @@ import {
   Icon,
   useComponentOverrides,
   appendClassNames,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { fileMetricsStyles as styles } from './Files.styles';
 
 export const FileMetrics = ({ className = '', file, style = {}, ...props }) => {

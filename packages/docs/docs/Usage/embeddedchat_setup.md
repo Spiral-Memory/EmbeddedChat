@@ -10,9 +10,9 @@ title: Installation
 ## Installation
 
 ```bash
-npm install @embeddedchat/react
+npm install ec-test-react
 # or
-yarn add @embeddedchat/react
+yarn add ec-test-react
 ```
 
 ## Importing the Component
@@ -20,7 +20,7 @@ yarn add @embeddedchat/react
 Import the `EmbeddedChat` component into your file:
 
 ```javascript
-import { EmbeddedChat } from '@embeddedchat/react';
+import { EmbeddedChat } from 'ec-test-react';
 ```
 
 ## Basic Usage

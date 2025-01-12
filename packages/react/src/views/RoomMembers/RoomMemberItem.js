@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import { css } from '@emotion/react';
-import { Box, Icon, Avatar } from '@embeddedchat/ui-elements';
+import { Box, Icon, Avatar } from 'ec-test-ui-elements';
 import RCContext from '../../context/RCInstance';
 import { RoomMemberItemStyles as styles } from './RoomMembers.styles';
 

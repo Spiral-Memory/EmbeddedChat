@@ -1,5 +1,5 @@
 import React, { memo } from 'react';
-import { Divider } from '@embeddedchat/ui-elements';
+import { Divider } from 'ec-test-ui-elements';
 
 const DividerBlock = ({ className }) => <Divider className={className} />;
 

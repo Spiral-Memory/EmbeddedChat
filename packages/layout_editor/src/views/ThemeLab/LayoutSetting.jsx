@@ -1,5 +1,5 @@
 import React, { useMemo, useCallback } from 'react';
-import { Box, useTheme, StaticSelect } from '@embeddedchat/ui-elements';
+import { Box, useTheme, StaticSelect } from 'ec-test-ui-elements';
 import { getLayoutSettings } from './ThemeLab.styles';
 import useLayoutStore from '../../store/layoutStore';
 import SurfaceItem from '../../components/SurfaceMenu/SurfaceItem';

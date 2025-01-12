@@ -10,7 +10,7 @@ import {
   useComponentOverrides,
   appendClassNames,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import RCContext from '../../context/RCInstance';
 import { useUserStore } from '../../store';
 import formatTimestamp from '../../lib/formatTimestamp';

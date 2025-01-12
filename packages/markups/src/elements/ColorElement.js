@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import { Box } from '@embeddedchat/ui-elements';
+import { Box } from 'ec-test-ui-elements';
 import { ColorElementStyles as styles } from './elements.styles';
 
 const ColorElement = ({ r, g, b, a }) => (

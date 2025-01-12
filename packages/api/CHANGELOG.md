@@ -1,4 +1,4 @@
-# @embeddedchat/api
+# ec-test-api
 
 ## 0.0.2
 

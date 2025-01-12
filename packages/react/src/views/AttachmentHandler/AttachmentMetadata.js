@@ -1,6 +1,6 @@
 import React from 'react';
 import { css } from '@emotion/react';
-import { ActionButton, Box } from '@embeddedchat/ui-elements';
+import { ActionButton, Box } from 'ec-test-ui-elements';
 
 const AttachmentMetadata = ({ attachment, url, variantStyles = {} }) => {
   const handleDownload = async () => {

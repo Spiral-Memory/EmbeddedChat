@@ -1,5 +1,5 @@
 import React from "react";
-import { Box } from "@embeddedchat/ui-elements";
+import { Box } from "ec-test-ui-elements";
 import { getMessageBodyStyles } from "./Message.styles";
 
 export const MessageBody = ({

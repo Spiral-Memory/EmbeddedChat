@@ -1,5 +1,5 @@
 {
-    "name": "@embeddedchat/markups",
+    "name": "ec-test-markups",
     "version": "0.0.0",
     "description": "A React component library for handling markup interactions in EmbeddedChat",
     "main": "dist/cjs/index.js",
@@ -71,10 +71,10 @@
         "react-dom": ">=17.0.2 <19.0.0"
     },
     "dependencies": {
-        "@embeddedchat/ui-elements": "workspace:^",
         "@emotion/babel-preset-css-prop": "^11.11.0",
         "@emotion/react": "11.7.1",
         "@rollup/plugin-json": "^6.0.0",
+        "ec-test-ui-elements": "workspace:^",
         "emoji-toolkit": "^7.0.1",
         "prop-types": "^15.8.1"
     }

@@ -34,10 +34,10 @@ export default [
       'react-dom',
       'lodash',
       '@emotion/react',
-      '@embeddedchat/ui-elements',
-      '@embeddedchat/api',
-      '@embeddedchat/ui-kit',
-      '@embeddedchat/markups',
+      'ec-test-ui-elements',
+      'ec-test-api',
+      'ec-test-ui-kit',
+      'ec-test-markups',
     ],
     plugins: [
       replace(

@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import { useTheme } from '@embeddedchat/ui-elements';
+import { useTheme } from 'ec-test-ui-elements';
 
 export const CodeBlockStyles = {
   copyonly: css`

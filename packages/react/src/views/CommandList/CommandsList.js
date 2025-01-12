@@ -5,7 +5,7 @@ import {
   Box,
   useComponentOverrides,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import getCommandListStyles from './CommandList.style';
 
 function CommandsList({

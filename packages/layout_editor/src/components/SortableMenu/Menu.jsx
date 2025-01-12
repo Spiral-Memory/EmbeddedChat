@@ -5,7 +5,7 @@ import {
   ActionButton,
   Tooltip,
   useTheme,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import MenuItem from './MenuItem';
 import { getMenuStyles } from './Menu.styles';
 import { SortableContext } from '@dnd-kit/sortable';

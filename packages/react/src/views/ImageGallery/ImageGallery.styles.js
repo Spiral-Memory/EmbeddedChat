@@ -1,5 +1,5 @@
 import { css } from '@emotion/react';
-import { alpha } from '@embeddedchat/ui-elements';
+import { alpha } from 'ec-test-ui-elements';
 
 const getImageGalleryStyles = (theme) => {
   const styles = {

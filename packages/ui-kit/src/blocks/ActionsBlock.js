@@ -1,7 +1,7 @@
 import { css } from '@emotion/react';
 import * as UiKit from '@rocket.chat/ui-kit';
 import React, { memo, useCallback, useMemo, useState } from 'react';
-import { Box, Button, useComponentOverrides } from '@embeddedchat/ui-elements';
+import { Box, Button, useComponentOverrides } from 'ec-test-ui-elements';
 
 import { useSurfaceType } from '../hooks/useSurfaceType';
 import Action from './ActionsBlock.Action';

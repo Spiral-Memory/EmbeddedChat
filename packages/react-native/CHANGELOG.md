@@ -1,8 +1,8 @@
-# @embeddedchat/react-native
+# ec-test-react-native
 
 ## 0.0.2
 
 ### Patch Changes
 
 - Updated dependencies
-  - @embeddedchat/api@0.0.2
+  - ec-test-api@0.0.2

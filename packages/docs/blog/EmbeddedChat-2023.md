@@ -53,7 +53,7 @@ Simple integrate embedded chat by pasting html snippet into your website
 <div id="embeddedchat"></div>
       <script src="http://127.0.0.1:4001/embeddedchat.js"></script>
       <script>
-        // all props for the EmbeddedChat of @embeddedchat/react will go here
+        // all props for the EmbeddedChat of ec-test-react will go here
 		// The config will be directly applied as props for the EmbeddedChat Component
         const config = {
             host: 'http://localhost:3000',

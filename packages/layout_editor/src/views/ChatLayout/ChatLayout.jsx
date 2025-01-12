@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, useTheme } from '@embeddedchat/ui-elements';
+import { Box, useTheme } from 'ec-test-ui-elements';
 import debounce from 'lodash/debounce';
 import { Panel, PanelGroup, PanelResizeHandle } from 'react-resizable-panels';
 import ChatBody from '../Chatbody/ChatBody';

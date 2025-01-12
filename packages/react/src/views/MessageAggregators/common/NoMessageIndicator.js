@@ -1,6 +1,6 @@
 import React from 'react';
 import { css } from '@emotion/react';
-import { Box, Icon } from '@embeddedchat/ui-elements';
+import { Box, Icon } from 'ec-test-ui-elements';
 import useMessageAggregatorStyles from './MessageAggregator.styles';
 
 const NoMessagesIndicator = ({ iconName, message }) => {

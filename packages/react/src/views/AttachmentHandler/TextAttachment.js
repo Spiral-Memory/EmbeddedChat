@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { css } from '@emotion/react';
 import PropTypes from 'prop-types';
-import { Box, Avatar, useTheme } from '@embeddedchat/ui-elements';
+import { Box, Avatar, useTheme } from 'ec-test-ui-elements';
 import RCContext from '../../context/RCInstance';
 
 const TextAttachment = ({ attachment, type, variantStyles = {} }) => {

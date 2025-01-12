@@ -1,6 +1,6 @@
 import React from 'react';
 import { format } from 'date-fns';
-import { Button, Icon, useTheme } from '@embeddedchat/ui-elements';
+import { Button, Icon, useTheme } from 'ec-test-ui-elements';
 
 const BubbleThreadBtn = ({ message, handleOpenThread, styles = {} }) => {
   const { theme } = useTheme();

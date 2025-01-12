@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
 import PropTypes from 'prop-types';
 import emojione from 'emoji-toolkit';
-import { Box } from '@embeddedchat/ui-elements';
+import { Box } from 'ec-test-ui-elements';
 import DOMPurify from 'dompurify';
 import { EmojiStyles as styles } from './elements.styles';
 

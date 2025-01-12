@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { css } from "@emotion/react";
 import { isSameDay } from "date-fns";
-import { Box, Icon } from "@embeddedchat/ui-elements";
+import { Box, Icon } from "ec-test-ui-elements";
 import Message from "../Message/Message";
 import isMessageLastSequential from "../../lib/isMessageLastSequential";
 import isMessageSequential from "../../lib/isMessageSequential";

@@ -6,7 +6,7 @@ import {
   Icon,
   useComponentOverrides,
   appendClassNames,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import { MessageMetricsStyles as styles } from './Message.styles';
 import BubbleThreadBtn from './BubbleVariant/BubbleThreadBtn';
 

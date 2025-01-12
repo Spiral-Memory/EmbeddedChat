@@ -9,7 +9,7 @@ import {
   useToastBarDispatch,
   useComponentOverrides,
   appendClassNames,
-} from '@embeddedchat/ui-elements';
+} from 'ec-test-ui-elements';
 import FilePreviewContainer from './FilePreviewContainer';
 import FileBodyContainer from '../Message/MessageBodyContainer';
 
