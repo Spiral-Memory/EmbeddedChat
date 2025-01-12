@@ -93,6 +93,7 @@
     "ec-test-api": "workspace:^",
     "ec-test-ui-elements": "workspace:^",
     "ec-test-ui-kit": "workspace:^",
+    "ec-test-markups": "workspace:^",
     "emoji-picker-react": "^4.4.9",
     "emoji-toolkit": "^7.0.1",
     "json5": "^2.2.3",
